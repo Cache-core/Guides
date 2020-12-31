@@ -24,6 +24,7 @@
 - [Banking Guideline](https://github.com/Cache-core/Guides/blob/master/banking.md)
 - [Emission Guide](https://github.com/Cache-core/Guides/blob/master/emission.md)
 - [Cache Project Initial Minor Paper](https://github.com/Cache-core/Guides/blob/master/project.md)
+- [Cache Project White Paper](https://github.com/Cache-core/Guides/blob/master/Cache%20White%20Paper%20%20Draft%20Version%201.0.9.pdf)
 
 ***
 
